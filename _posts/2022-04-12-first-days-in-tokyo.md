@@ -4,4 +4,6 @@ title: First Days in Tokyo
 date: 2022-04-12 21:56
 ---
 
-Write some words here.
+## Hello!
+
+Write some words about entering Japan and the first few days here. 
